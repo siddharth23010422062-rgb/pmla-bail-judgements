@@ -35,4 +35,4 @@ I built a dataset of 13 Supreme Court judgments decided between 01-09-2021 and 3
 - `index.html`: the analysis page
 
 ## Use of AI
-[Edit this to describe exactly what you did.] I used Claude (Anthropic) to help find candidate judgments, to draft the dataset rows, the charts and the page. I then read the judgments and checked and corrected each row myself. Any row I did not check against the official judgment is not part of the submitted dataset.
+I used Claude (Anthropic) to help find candidate judgments, to draft the dataset rows, the charts and the page. I then read the judgments and checked and corrected each row myself. Any row I did not check against the official judgment is not part of the submitted dataset.
